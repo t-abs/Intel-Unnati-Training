@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Prediction</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Air Quality Index (AQI) Prediction</h1>
+        <form id="aqiForm">
+            <label for="pm25">PM2.5 (µg/m³):</label>
+            <input type="number" id="pm25" name="pm25" required>
+            
+            <label for="ozone">OZONE (ppb):</label>
+            <input type="number" id="ozone" name="ozone" required>
+            
+            <label for="co">CO (ppm
+                ):</label>
+            <input type="number" id="co" name="co" required>
+            
+            <label for="no2">NO2 (ppb):</label>
+            <input type="number" id="no2" name="no2" required>
+            
+            <button type="button" onclick="predictAQI()">Predict AQI</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <link rel="stylesheet" href="aqi.css"/>
+    <script src="script.js"></script>
+</body>
+</html>
