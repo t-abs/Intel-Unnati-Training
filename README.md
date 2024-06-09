@@ -1,7 +1,7 @@
 # Intel-Unnati-Training
 Structural Representation from Dataset and Representation of Insights-
 
-1.Used EDA Analysis using Python and various ML algorithms to carry out preprocessing techniques in the dataset.
+1.Used EDA Analysis using Python and various ML algorithms to carry out preprocessing techniques in the dataset to identify the patterns and insights from dataset.
 
 2.Used Streamlit to represent the dashboard.
 
