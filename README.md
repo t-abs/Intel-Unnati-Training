@@ -1,25 +1,25 @@
 # Intel-Unnati-Training
-Structural Representation from Dataset and Representation of Insights-
+This project explores an Air Quality Index (AQI) dataset using various data analysis and visualization techniques. The goals are to:
+    • Uncover patterns and insights: Utilize Exploratory Data Analysis (EDA) and machine learning algorithms to understand the relationships and trends within the AQI data.
+    • Develop interactive dashboards: Create compelling visualizations using Streamlit and Power BI to effectively communicate the findings.
+    • Design a user-friendly interface: Implement front-end technologies (HTML, CSS, JavaScript) to build an interactive AQI dashboard accessible to a broader audience.
 
-1.Used EDA Analysis using Python and various ML algorithms to carry out preprocessing techniques in the dataset to identify the patterns and insights from dataset.
-
-2.Used Streamlit to represent the dashboard.
-
-3.Used PowerBi to represent the virtual Representation of the analysis.
-
-4.Used the frontend part(html,css,js) to represent the AQI dashboard.
-
-5.Final Analysis by Reports and Presentation.
-
-# POWERBI DASHBOARD-
-![1](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/b2a6c97f-a269-4b5f-8aa0-a868f0f54491)
-![2](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/331ba0ce-ac0a-4c79-a09e-6f61e898e4ea)
-![3](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/1314637e-2c0a-4c19-bade-87cb1c5b27c6)
+# METHADOLOGY
+1) Data Preprocessing (Python):
+    • Employed EDA techniques to analyze and clean the AQI dataset.
+    • Utilized machine learning algorithms (if applicable) to identify patterns and improve data quality.
 
 
 
+2) POWERBI DASHBOARD:
+    • Image 1:![1](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/b2a6c97f-a269-4b5f-8aa0-a868f0f54491)
 
-# FRONTEND DASHBOARD-
+    • Image 2: ![2](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/331ba0ce-ac0a-4c79-a09e-6f61e898e4ea)
+
+    • Image 3: ![3](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/1314637e-2c0a-4c19-bade-87cb1c5b27c6)
+
+
+3) FRONTEND DASHBOARD-
 ![4](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/4a3a997b-41c4-4aef-98b9-0bca9e754d3e)
 
 
