@@ -17,7 +17,8 @@ POWERBI DASHBOARD-
 ![Screenshot 2024-05-23 201518](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/723d518f-2671-44d7-8ed7-548fc44ec3fc)
 
 FRONTEND DASHBOARD-
-![Screenshot 2024-06-04 181001](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/1cc8a62e-e2b8-447a-9d5a-981ad9369743)
+![Screenshot 2024-06-04 181530](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/45d4bfd3-3f46-43a9-aaaa-88948c854571)
+
 
 DEPLOYED STREAMLIT-
 ![Screenshot 2024-06-04 190531](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/3873ca16-416d-4ebb-9c5e-41fca63d63af)
