@@ -2,7 +2,7 @@ import joblib
 import streamlit as st
 import pandas as pd
 
-model = joblib.load('/home/hgidea/Desktop/Coding/Python/hackthon/intel/best_random_forest_model (2).pkl')
+model = joblib.load('best_random_forest_model (2).pkl')
 
 # Function to determine AQI category based on AQI value
 def get_aqi_category(aqi_value):
