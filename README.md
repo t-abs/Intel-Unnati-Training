@@ -22,6 +22,19 @@ FRONTEND DASHBOARD-
 DEPLOYED STREAMLIT-
 ![Screenshot 2024-06-04 190531](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/3873ca16-416d-4ebb-9c5e-41fca63d63af)
 
+FINAL INSIGHTS AND PATTERNS FROM DATASET-
+![Screenshot 2024-06-10 003612](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/f25bc99d-fef3-4d1b-9ca0-17d65a8b5a8e)
+![Screenshot 2024-06-10 003558](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/271e4204-d13c-40f7-bb43-ceeacb9c1b71)
+![Screenshot 2024-06-10 003541](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/f54308bc-2878-4eff-af10-c67349352ce3)
+![Screenshot 2024-06-10 003511](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/afa359a8-1046-4ddf-9efc-1942f31820cf)
+![Screenshot 2024-06-10 003527](https://github.com/t-abs/Intel-Unnati-Training/assets/137747688/73a66d10-a6fe-4f1e-a7ed-be36022fa1d1)
+
+
+
+
+
+
+
 
 
 
