@@ -1,10 +1,10 @@
 # Intel-Unnati-Training
 
 **Contributors-
-1.Jyotika Jayani - https://github.com/JyotikaJayani-08
-2.Harshit Ghosh - https://github.com/Harshit-code-tech
-3.Tanisha Basu - https://github.com/t-abs
-4.Shreyas Thacker - https://github.com/Shreyas-Thacker
+* **Jyotika Jayani - https://github.com/JyotikaJayani-08
+* **Harshit Ghosh - https://github.com/Harshit-code-tech
+* **Tanisha Basu - https://github.com/t-abs
+* **Shreyas Thacker - https://github.com/Shreyas-Thacker
 
 This project explores an Air Quality Index (AQI) dataset, aiming to:
 
