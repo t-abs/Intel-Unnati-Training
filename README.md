@@ -1,5 +1,11 @@
 # Intel-Unnati-Training
 
+**Contributors-
+1.Jyotika Jayani - https://github.com/JyotikaJayani-08
+2.Harshit Ghosh - https://github.com/Harshit-code-tech
+3.Tanisha Basu - https://github.com/t-abs
+4.Shreyas Thacker - https://github.com/Shreyas-Thacker
+
 This project explores an Air Quality Index (AQI) dataset, aiming to:
 
 * **Uncover patterns and insights**: Utilize Exploratory Data Analysis (EDA) and machine learning algorithms to understand relationships and trends within the data.
