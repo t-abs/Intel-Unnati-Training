@@ -28,7 +28,7 @@ This project explores an Air Quality Index (AQI) dataset, aiming to:
 * **Image 5: Streamlit App for Air Quality Analysis** ![5](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/07cd247b-b366-4e67-a961-82178aeb3dc5)
 
 **5. Final Insights and Patterns from Dataset:**
-*  **Image 6:** ![6](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a4d5d817-2037-4a61-ae99-85b987fa5f7d)
+*  **Image 6: Featured Values** ![6](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a4d5d817-2037-4a61-ae99-85b987fa5f7d)
 *  **Image 7: Resudial plot** ![7](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/0a6a9a68-d711-447c-9a9a-692e2e1c6687)
 *  **Image 8: Distribution of AQI across Cateogary** ![download](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/d9704801-44c8-491c-a502-24a03c9e00c1)
 *  **Image 9: EDA analysis of Pollutant AQI Value** ![9](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/c37cf40e-6649-4a0d-b76e-298cbdf80f01)
