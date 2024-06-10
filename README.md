@@ -4,7 +4,8 @@ This project explores an Air Quality Index (AQI) dataset using various data anal
     • Develop interactive dashboards: Create compelling visualizations using Streamlit and Power BI to effectively communicate the findings.
     • Design a user-friendly interface: Implement front-end technologies (HTML, CSS, JavaScript) to build an interactive AQI dashboard accessible to a broader audience.
 
-# METHADOLOGY
+# METHADOLOGY 
+
 1) Data Preprocessing (Python):
     • Employed EDA techniques to analyze and clean the AQI dataset.
     • Utilized machine learning algorithms (if applicable) to identify patterns and improve data quality.
@@ -24,20 +25,25 @@ This project explores an Air Quality Index (AQI) dataset using various data anal
 
 
 
-# DEPLOYED STREAMLIT-
+4) DEPLOYED STREAMLIT-
 ![5](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/07cd247b-b366-4e67-a961-82178aeb3dc5)
 
 
-# FINAL INSIGHTS AND PATTERNS FROM DATASET-
-![6](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a4d5d817-2037-4a61-ae99-85b987fa5f7d)
+5) FINAL INSIGHTS AND PATTERNS FROM DATASET-
+   • Image 1: ![6](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a4d5d817-2037-4a61-ae99-85b987fa5f7d)
+   • Image 2: ![7](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/0a6a9a68-d711-447c-9a9a-692e2e1c6687)
+   • Image 3: ![8](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/70836efa-c4fa-4106-a067-d4b91b3a24c2)
+   • Image 4: ![9](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/c37cf40e-6649-4a0d-b76e-298cbdf80f01)
+   • Image 5: ![10](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a1c72e50-8baf-49a1-88e3-e4a64ee576cf)
 
-![7](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/0a6a9a68-d711-447c-9a9a-692e2e1c6687)
 
-![8](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/70836efa-c4fa-4106-a067-d4b91b3a24c2)
 
-![9](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/c37cf40e-6649-4a0d-b76e-298cbdf80f01)
 
-![10](https://github.com/t-abs/Intel-Unnati-Training/assets/128123681/a1c72e50-8baf-49a1-88e3-e4a64ee576cf)
+
+
+
+
+
 
 
 
