@@ -1,5 +1,5 @@
 # Intel-Unnati-Training-
-* **Mentor-Sohail Khan Sir
+Mentor-Sohail Khan Sir
 
 This project explores an Air Quality Index (AQI) dataset, aiming to:
 
