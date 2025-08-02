@@ -92,6 +92,21 @@ This project delves into an Air Quality Index (AQI) dataset, with the objectives
 
 
 
+  COMPARISON OF AQI PREDICTION BETWEEN TRADITIONAL METHOD AND ML PREDICTION-
+
+  By Mathematical Formula-
+
+   <img width="275" height="356" alt="image" src="https://github.com/user-attachments/assets/fc248abc-5bd9-4c73-8da6-e9334b4eb75f" />
+
+
+ By  ML Model (Historic Dataset Prediction)-
+
+ <img width="1405" height="804" alt="Screenshot 2024-06-04 190531" src="https://github.com/user-attachments/assets/bb7ccdd4-3c5f-465f-ad3d-cfc4a95b796a" />
+
+
+ 
+
+
 ## Team Members
 
 - [Tanisha Basu](https://github.com/t-abs)
