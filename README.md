@@ -91,7 +91,7 @@ This project delves into an Air Quality Index (AQI) dataset, with the objectives
   *Further analysis of pollutant data, focusing on specific AQI contributors.*
 
 
- COMPARISON OF AQI PREDICTION BETWEEN TRADITIONAL METHOD AND ML PREDICTION-
+ COMPARISON OF AQI PREDICTION BETWEEN TRADITIONAL METHOD FORMULA AND ML PREDICTION-
 
  By Mathematical Formula-
 
